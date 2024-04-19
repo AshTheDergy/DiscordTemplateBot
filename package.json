@@ -3,9 +3,6 @@
   "version": "0",
   "description": "A silly bot that i will use for template",
   "main": "index.js",
-  "scripts": {
-    "register": "node commands.js"
-  },
   "author": "AshTheDergy",
   "//": "These packages are always needed. You can always add new packages!",
   "dependencies": {
