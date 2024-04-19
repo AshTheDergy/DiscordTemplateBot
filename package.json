@@ -1,0 +1,17 @@
+{
+  "name": "ultimatebot",
+  "version": "0",
+  "description": "A silly bot that i will use for template",
+  "main": "index.js",
+  "scripts": {
+    "register": "node commands.js"
+  },
+  "author": "AshTheDergy",
+  "//": "These packages are always needed. You can always add new packages!",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5",
+    "fs": "^0.0.1-security",
+    "node-fetch": "^3.3.0"
+  }
+}
